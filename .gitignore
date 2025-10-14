@@ -20,4 +20,8 @@
 1-lesson/venv/
 
 */.DS_Store
-.DS_Store
+.DS_Store.venv/
+__pycache__/
+*.sqlite3
+app.db
+.env
